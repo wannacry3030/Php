@@ -5,7 +5,7 @@
     define('HOST', 'localhost');
     define('USUARIO', 'root');
     define('SENHA', '');
-    define('BANCO','corp_facil');
+    define('BANCO','corp');
     
     
     function carregar_automatico($classe){
