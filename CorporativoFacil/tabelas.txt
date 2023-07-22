@@ -1,0 +1,3 @@
+tabelas:
+
+acessos,autor,categorias,contatos_recebidos,datas, galerias, publicacao, trafego, usuario

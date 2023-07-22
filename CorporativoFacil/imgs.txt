@@ -1,0 +1,3 @@
+https://stock.adobe.com/br/search/images?filters%5Bcontent_type%3Aphoto%5D=1&filters%5Bcontent_type%3Aillustration%5D=1&filters%5Bcontent_type%3Azip_vector%5D=1&filters%5Bcontent_type%3Aimage%5D=1&k=cell+phone+samsung&order=relevance&price%5B%24%5D=1&safe_search=1&search_page=1&search_type=usertyped&acp=&aco=cell+phone+samsung&get_facets=0&asset_id=281098007
+
+ 
